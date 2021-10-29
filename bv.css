@@ -1,0 +1,51 @@
+*{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+}
+
+.game{
+    display: flex;
+    justify-content: center;
+}
+button{
+    border-style: none;
+    font-size: 170px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+.bc{
+    padding-right: 25px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+.mv{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.bv{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
+
+.restart{
+    font-size: 25px;
+    background-color: crimson;
+    color: cyan;
+    font-size: 25px;
+}
